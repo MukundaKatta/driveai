@@ -59,6 +59,3 @@ src/
     store.ts                  # Zustand state management
 ```
 
-## License
-
-MIT
